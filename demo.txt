@@ -1,0 +1,10 @@
+
+
+Artificial Intelligence is the simulation of human intelligence in machines, allowing them to perform tasks like reasoning, problem-solving, and decision-making. AI systems analyze data, recognize patterns, and make predictions. It includes a range of techniques such as rule-based logic, natural language processing, and robotics. AI can be either narrow, focused on specific tasks, or general, mimicking human-level intelligence. Common examples of AI in use today include virtual assistants, chatbots, and autonomous vehicles. Its goal is to create systems that can function intelligently and independently.
+
+
+
+
+
+Machine Learning is a subset of AI focused on building systems that learn from data and improve their performance over time without being explicitly programmed. ML uses statistical algorithms to identify patterns and make predictions or decisions. It includes methods like supervised learning, unsupervised learning, and reinforcement learning. ML is widely used in applications such as spam filtering, recommendation systems, and fraud detection. As more data becomes available, ML systems become more accurate and effective. Essentially, it enables machines to "learn" from experience much like humans do.
+
