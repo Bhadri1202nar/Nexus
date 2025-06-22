@@ -9,21 +9,10 @@ __pycache__/
 *.pyo
 
 # Jupyter Notebook checkpoints
-.ipynb_checkpoints/
+
 
 # Environment files
 .env
 *.env
 
 # IDE settings (e.g., for PyCharm, VSCode)
-.idea/
-.vscode/
-
-# Logs and temp files
-*.log
-*.tmp
-*.bak
-
-# OS files
-.DS_Store
-Thumbs.db
